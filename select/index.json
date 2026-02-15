@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛しい",
+  "base_artist": "ももちひろこ",
+  "createdAt": "2026-02-15T14:08:36.499867Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛しい",
+      "artist": "ももちひろこ",
+      "has_synced": false,
+      "path": "select/pl_01_愛しい_ももちひろこ.txt"
+    }
+  ]
+}
